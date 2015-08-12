@@ -1,0 +1,1 @@
+<?php CVarDumper::dump($detail); ?>

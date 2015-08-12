@@ -1,0 +1,24 @@
+2013/12/20 13:33:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM frame WHERE cat_id LIKE "%1%"
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (140)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM phannhanh
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (145)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM type
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (150)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM xuat_xu
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (155)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM frame WHERE cat_id LIKE "%%"
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (140)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM phannhanh
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (145)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM type
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (150)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
+2013/12/20 13:33:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM xuat_xu
+in /Users/Troctroc/works/dulieuvai/protected/controllers/ClothController.php (155)
+in /Users/Troctroc/works/dulieuvai/index.php (29)
